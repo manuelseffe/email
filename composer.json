@@ -1,0 +1,19 @@
+{
+    "name": "manuels/emailmanager",
+    "description": "Email Management Interface",
+    "type": "project",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Manuels\\Emailmanager\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manuels Effe",
+            "email": "manuelseffe@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
