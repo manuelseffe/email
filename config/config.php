@@ -1,16 +1,16 @@
 <?php
 
 return [
+
   
     /**
      * Database for the Email Client.
-     * @database information.
+     * @database
      */
-    'database' => [
-        'host' => 'localhost',
-        'username' => 'root',
-        'password' => '',
-        'dbname' => 'emailXerxes',
+    'cpanel' => [
+        'host' => 'ivotecglobalservices.com',
+        'username' => 'maprefge',
+        'password' => 'o7xAT3Sg67F#b]',
     ],
 
 ];
