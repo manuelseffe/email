@@ -5,7 +5,7 @@
     "license": "proprietary",
     "autoload": {
         "psr-4": {
-            "Manuels\\Emailmanager\\": "classes/"
+            "Email\\Manager\\": "src/Manager"
         }
     },
     "authors": [
