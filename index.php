@@ -16,10 +16,11 @@ try {
 
     // List emails for the specified domain
     $emails = $emailManager->listEmail($host);
+    
 
     // Print the list of emails
     // echo "<h2>List of Emails for $host:</h2>";
-    echo "<h2>List of Emails for Starsightenergy.com:</h2>";
+   
     echo '<ul>';
     foreach ($emails as $email) {
         echo '<li>' . htmlspecialchars($email['email']);
